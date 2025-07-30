@@ -30,5 +30,6 @@ Understanding OS-level security and permissions management supports **IT General
 ---
 
 ### ▶ Watch the Full Walkthrough on YouTube
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20Video-%23FF0000.svg?&logo=YouTube&logoColor=white)](https://youtu.be/q5U1yy0Wv3c)  
+[![Linux Virtualization & Command Line Lab](https://img.youtube.com/vi/q5U1yy0Wv3c/0.jpg)](https://youtu.be/q5U1yy0Wv3c)
+
 **Direct Link to Virtual PC I built using Oracle VirtualBox :** [https://youtu.be/q5U1yy0Wv3c](https://youtu.be/q5U1yy0Wv3c)
