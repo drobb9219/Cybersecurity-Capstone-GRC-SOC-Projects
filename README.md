@@ -1,3 +1,5 @@
+![Cybersecurity Projects Banner](cybersecurityprojectsbanner.png)
+
 # Cybersecurity Capstone Cohort Projects (Weeks 1–8)
 **Diversity Cyber Council | Security+ Track | 2025**
 
