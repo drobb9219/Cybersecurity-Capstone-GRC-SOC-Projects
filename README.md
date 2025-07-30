@@ -1,6 +1,12 @@
 # Cybersecurity Capstone Cohort Projects (Weeks 1–8)
 **Diversity Cyber Council | Security+ Track | 2025**
 
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Security Track](https://img.shields.io/badge/Track-Cybersecurity-blue)
+![Focus-GRC](https://img.shields.io/badge/Focus-GRC%2FCompliance-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
 This repository showcases hands-on projects completed during my Cybersecurity Capstone program. These projects emphasize **Governance, Risk & Compliance (GRC)**, **SOC Analyst fundamentals**, **SIEM tools**, **Linux administration**, and **network security concepts**, preparing me for roles in **IT Risk Management**, **Compliance Analysis**, and **Cybersecurity Operations**.
 
 ---
