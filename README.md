@@ -47,3 +47,61 @@ This repository showcases hands-on projects completed during my Cybersecurity Ca
 - Each folder (`WeekX_ProjectName`) contains:
     - `README.md` with project summary, objectives, tools, and screenshots
     - Supporting files (e.g., diagrams, config files, slides)
+
+---
+
+## 📚 What I Learned Each Week (Capstone Security+ Cohort)
+
+### ✅ Week 1 – Cybersecurity Foundations & Risk Management
+- Gained an understanding of cybersecurity principles aligned with the **CIA Triad (Confidentiality, Integrity, Availability)**.
+- Learned about risk assessment methodologies, compliance standards (**NIST**, **ISO 27001**), and their importance in **GRC roles**.
+- Explored security frameworks and controls that form the foundation for enterprise security programs.
+
+---
+
+### ✅ Week 2 – Networking & Security Fundamentals
+- Built knowledge of **TCP/IP**, subnetting, VLANs, and NAT.
+- Understood how **firewalls, routers, and switches** enforce network segmentation and protect against threats.
+- Learned basic troubleshooting and configuration for secure network environments.
+
+---
+
+### ✅ Week 3 – Security Tools & Threat Analysis
+- Gained hands-on experience using **SIEM concepts** and understanding event logging for detection of anomalies.
+- Learned how to analyze threat intelligence reports and identify common attack vectors (phishing, malware, insider threats).
+- Practiced applying risk management concepts to mitigate vulnerabilities.
+
+---
+
+### ✅ Week 4 – Linux Virtualization & Command Line Lab
+- Installed and configured **Ubuntu Linux in VirtualBox** to simulate enterprise environments.
+- Practiced **file permissions (`chmod`, `chown`)** and user management for OS-level security.
+- Learned how **Linux logs and configurations** support compliance and system hardening.
+
+---
+
+### ✅ Week 5 – Incident Response & Forensics Basics
+- Gained exposure to **Incident Response (IR) frameworks** like NIST 800-61.
+- Learned the phases of IR: **Preparation, Detection, Containment, Eradication, Recovery, Lessons Learned**.
+- Practiced basic forensic evidence handling and the importance of **chain of custody**.
+
+---
+
+### ✅ Week 6 – Small Office Network Build
+- Designed and simulated a **LAN environment** using Cisco Packet Tracer.
+- Configured IP addressing, NAT, and basic router/switch security.
+- Understood how network topology impacts performance, scalability, and security compliance.
+
+---
+
+### ✅ Week 7 – Security Policies & Compliance
+- Developed and reviewed **security policies** related to access control, incident response, and password management.
+- Learned the role of **IT General Controls (ITGC)** in governance and regulatory compliance (SOX, HIPAA).
+- Understood how policies align with organizational risk management strategies.
+
+---
+
+### ✅ Week 8 – Capstone Project & Presentation
+- Consolidated hands-on labs into a **comprehensive security program overview**.
+- Practiced presenting technical concepts to non-technical stakeholders for business impact.
+- Demonstrated proficiency across **GRC, SOC fundamentals, and Security+ domains** in a real-world scenario.
