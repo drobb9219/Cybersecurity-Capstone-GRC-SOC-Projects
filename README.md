@@ -17,17 +17,21 @@ This repository showcases hands-on projects completed during my Cybersecurity Ca
 
 ---
 
-## 📂 **Project Overview**
-| Week | Project Title                                 | Core Skills |
-|------|----------------------------------------------|-------------|
-| 1    | Cybersecurity Career Pathways + AI          | Role Mapping, GRC Awareness |
-| 2    | Azure Sentinel SIEM & SOAR Lab              | SIEM Setup, KQL Queries |
-| 3    | Phishing Awareness Builder                  | Social Engineering Defense |
-| 4    | Virtualization & Linux Fundamentals         | CLI, File Permissions, Security |
-| 5    | CRM Simulation for Governance               | Data Lifecycle, GRC Processes |
-| 6    | Small Office Network Build (Packet Tracer)  | IP Addressing, NAT, Network Security |
-| 7    | Wireshark Traffic Analysis                  | Packet Capture, Protocol Analysis |
-| 8    | Business Case Presentation for Cybersecurity| Risk Strategy, Executive Reporting |
+
+## 📂 Project Overview
+
+| Week | Project Title & Details |
+|------|--------------------------|
+| [1](Week1_Cybersecurity_Pathways_AI) | [Cybersecurity Career Pathways + AI](Week1_Cybersecurity_Pathways_AI)<br>Core Skills: Role Mapping, GRC Awareness |
+| [2](Week2_Azure_Sentinel_SIEM_SOAR) | [Azure Sentinel SIEM & SOAR Lab](Week2_Azure_Sentinel_SIEM_SOAR)<br>Core Skills: SIEM Setup, Threat Detection |
+| [3](Week3_Phishing_Awareness) | [Phishing Awareness Builder](Week3_Phishing_Awareness)<br>Core Skills: Social Engineering Defense |
+| [4](Week4_Linux_Virtualization_Lab) | [Virtualization & Linux Fundamentals](Week4_Linux_Virtualization_Lab)<br>Core Skills: CLI, File Permissions |
+| [5](Week5_CRM_Simulation_GRC) | [CRM Simulation for Governance](Week5_CRM_Simulation_GRC)<br>Core Skills: Data Lifecycle, GRC Processes |
+| [6](Week6_Small_Office_Network_PacketTracer) | [Small Office Network Build (Packet Tracer)](Week6_Small_Office_Network_PacketTracer)<br>Core Skills: IP Addressing, NAT |
+| [7](Week7_Wireshark_Traffic_Analysis) | [Wireshark Traffic Analysis](Week7_Wireshark_Traffic_Analysis)<br>Core Skills: Packet Capture, Protocol Analysis |
+| [8](Week8_Interview_Business_Case) | [Interview Business Case Presentation](Week8_Interview_Business_Case)<br>Core Skills: Risk Strategy, Executive Reporting |
+
+
 
 ---
 
